@@ -9,7 +9,7 @@
     "UTC":8,
     "themeMode":"manual",
     "dayTheme":"light",
-    "nightTheme":"dark_colorblind"
+    "nightTheme":"dark_colorblind",
     "urlMode":"pinyin",
     "showPostSource":1,
     "rssSplit":"sentence",
