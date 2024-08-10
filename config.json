@@ -15,5 +15,5 @@
     "rssSplit":"sentence",
     "bottomText":"转载必须先获得作者授权",
     "needComment":1,
-    "allHead":"<script src='https://cn.vercount.one/js'></script>"
+    "allHead":"<script src='https://ghostdavid.github.io/Vercount.js'></script>"
 }
