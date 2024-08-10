@@ -7,13 +7,14 @@
     "onePageListNum":15,
     "i18n":"CN",
     "UTC":8,
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
+    "themeMode":"fix",
+    "dayTheme":"light_tritanopia",
+    "nightTheme":"github-light",
     "urlMode":"pinyin",
     "showPostSource":1,
     "rssSplit":"sentence",
     "bottomText":"转载必须先获得作者授权",
     "needComment":1,
-    "allHead":"<script src='https://ghostdavid.github.io/Vercount.js'></script>"
+    "allHead":"<script src='https://ghostdavid.github.io/Vercount.js'></script>",
+    "script":"<script src='https://ghostdavid.github.io/TOC.js'></script>"
 }
