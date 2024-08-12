@@ -13,7 +13,7 @@
     "urlMode":"pinyin",
     "showPostSource":1,
     "rssSplit":"sentence",
-    "bottomText":"转载和引用必须注明出处，并采用<a href='https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans'>CC BY-NC 4.0协议</a>进行许可",
+    "bottomText":"转载和引用须注明出处，并采用<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans'>CC BY-NC-SA 4.0协议</a>授权许可",
     "needComment":1,
     "allHead":"<script src='https://ghostdavid.github.io/Vercount.js'></script>",
     "script":"<script src='https://ghostdavid.github.io/TOC.js'></script>"
